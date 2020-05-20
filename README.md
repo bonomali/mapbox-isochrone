@@ -1,3 +1,5 @@
+Deprecated: please check out the [Isochrone API](https://docs.mapbox.com/api/navigation/#isochrone) for dedicated backend isochrone generation 
+
 # isochrone
 
 Isochrone generator built atop the Mapbox Matrix API, with CONREC polygonization. Calculates isochrones up to 1 hour of travel time.
